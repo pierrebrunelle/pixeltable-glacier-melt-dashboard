@@ -1,0 +1,44 @@
+[
+ {
+  "station_id": "RHO-01",
+  "glacier": "Rhone",
+  "region": "Valais",
+  "elevation_m": 2310,
+  "kind": "ablation"
+ },
+ {
+  "station_id": "RHO-02",
+  "glacier": "Rhone",
+  "region": "Valais",
+  "elevation_m": 2620,
+  "kind": "ablation"
+ },
+ {
+  "station_id": "ALE-01",
+  "glacier": "Aletsch",
+  "region": "Valais",
+  "elevation_m": 2180,
+  "kind": "ablation"
+ },
+ {
+  "station_id": "ALE-02",
+  "glacier": "Aletsch",
+  "region": "Valais",
+  "elevation_m": 2900,
+  "kind": "accumulation"
+ },
+ {
+  "station_id": "MOR-01",
+  "glacier": "Morteratsch",
+  "region": "Graubunden",
+  "elevation_m": 2100,
+  "kind": "ablation"
+ },
+ {
+  "station_id": "PLM-01",
+  "glacier": "Plaine Morte",
+  "region": "Bern",
+  "elevation_m": 2700,
+  "kind": "ablation"
+ }
+]

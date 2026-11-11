@@ -1,0 +1,17 @@
+[project]
+name = "pixeltable-glacier-melt-dashboard"
+version = "0.1.0"
+description = "A static melt dashboard for glacier monitoring stations, built from JSON stake readings with Pixeltable's built-in array and aggregate functions - built with Pixeltable"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+authors = [{ name = "Pierre Brunelle" }]
+keywords = ["pixeltable", "multimodal", "ai", "computed-columns", "data-infrastructure", "glacier-melt-dashboard"]
+dependencies = [
+    "pixeltable>=0.7.24",
+]
+
+[project.urls]
+Homepage = "https://pixeltable.com"
+Documentation = "https://docs.pixeltable.com"
+Pixeltable = "https://github.com/pixeltable/pixeltable"

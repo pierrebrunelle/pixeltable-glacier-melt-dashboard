@@ -1,0 +1,1 @@
+pixeltable>=0.7.24

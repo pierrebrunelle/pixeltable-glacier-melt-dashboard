@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "Glacier station melt dashboard built with Pixeltable"
+abstract: "A static melt dashboard for glacier monitoring stations, built from JSON stake readings with Pixeltable's built-in array and aggregate functions."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-glacier-melt-dashboard"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-11-11
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "analytics"
+  - "glacier"
+  - "climate-data"
+  - "sensor-data"
+  - "group-by"
+  - "reporting"
+  - "observability"
